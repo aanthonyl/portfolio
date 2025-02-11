@@ -2,35 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/games/sollum/</loc>
+    <loc>http://localhost:1313/repository-name/games/sentience/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/repository-name/games/sollum/</loc>
+  </url><url>
+    <loc>http://localhost:1313/repository-name/</loc>
     <lastmod>2025-01-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/games/</loc>
+    <loc>http://localhost:1313/repository-name/games/</loc>
     <lastmod>2025-01-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/fieldfork/</loc>
-    <lastmod>2024-01-14T07:07:07+01:00</lastmod>
+    <loc>http://localhost:1313/repository-name/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/mil/</loc>
-    <lastmod>2024-01-14T07:07:07+01:00</lastmod>
+    <loc>http://localhost:1313/repository-name/projects/auto-irrigation/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
-    <lastmod>2024-01-14T07:07:07+01:00</lastmod>
+    <loc>http://localhost:1313/repository-name/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://localhost:1313/repository-name/projects/cure/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/repository-name/projects/fieldfork/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/cure/</loc>
+    <loc>http://localhost:1313/repository-name/projects/mil/</loc>
   </url><url>
-    <loc>http://localhost:1313/games/robotrumble/</loc>
+    <loc>http://localhost:1313/repository-name/projects/</loc>
   </url><url>
-    <loc>http://localhost:1313/games/sentience/</loc>
+    <loc>http://localhost:1313/repository-name/games/robotrumble/</loc>
   </url><url>
-    <loc>http://localhost:1313/games/shutterbirds/</loc>
+    <loc>http://localhost:1313/repository-name/games/shutterbirds/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/repository-name/tags/</loc>
   </url>
 </urlset>
