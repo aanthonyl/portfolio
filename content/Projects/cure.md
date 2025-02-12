@@ -8,7 +8,7 @@ featured_image: "/images/cure/CURE.jpg"
 
 This project I worked on for a class in the spring of 2024. I worked with Dr. Pamela Soltis, Dr. Douglas Soltis, and Dr. Makenzie Mabry, who work at <a href="https://www.floridamuseum.ufl.edu/soltis-lab/" target="_blank">The Soltis Lab</a>. The goal of the project was to model what will happen to Florida plant communities and ecosystems as a response to climate change using niche modeling and the UF supercomputer cluster HiPerGator.
 
-<a href="/files/FinalReportAnthonyLiao.pdf" target="_blank">Read my final report here!</a>Or keep reading for a more brief summary. My poster is at the bottom of this page.
+<a href="/portfolio/files/FinalReportAnthonyLiao.pdf" target="_blank">Read my final report here!</a>Or keep reading for a more brief summary. My poster is at the bottom of this page.
 
 I worked with two species, Lonicera sempervirens, also known as Coral Honeysuckle and Erythrina herbacea, also known as Cherokee Bean.
 
@@ -21,8 +21,8 @@ Erythrina herbacea
 I created R scripts that looked at their environmental variables based on where these species were distributed. Based on a few models predicting environmental variables in the coming 20-80 years with climate change, I generated niche maps that showed species suitability.
 
 <div style="display: flex; gap: 10px; justify-content: flex-start; margin-left: 5%;">
-  <img src="/images/cure/Erythrina_herbacea_cleaned_data_map.png" style="width: 70%;">
-  <img src="/images/cure/Lonicera_sempervirens_cleaned_map.png" style="width: 70%;">
+  <img src="/portfolio/images/cure/Erythrina_herbacea_cleaned_data_map.png" style="width: 70%;">
+  <img src="/portfolio/images/cure/Lonicera_sempervirens_cleaned_map.png" style="width: 70%;">
 </div>
 
 These maps above show their current distribution as of 2024 when I collected this data. The maps below their current habitat suitability.

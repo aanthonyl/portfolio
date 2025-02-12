@@ -2,7 +2,7 @@ baseURL = "https://aanthonyl.github.io/portfolio/"
 languageCode = 'en-us'
 title = 'Anthony Liao'
 theme = 'ananke'
-enable_extended_parameters = true 
+enable_extended_parameters = true
 
 [markup.goldmark.renderer]
   unsafe = true # Allow HTML in md files

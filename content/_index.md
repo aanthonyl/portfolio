@@ -25,7 +25,7 @@ Minors in Electrical Engineering, Digital Arts and Sciences,<br> and Botany
 
 {{< figure src="/images/MIL.png" alt="MIL Logo" class="uf-logo">}}
 <div class="bordered-text">
-<b><a href="/projects/mil/">UF Machine Intelligence Lab</a></b> <br>
+<b><a href="/portfolio/projects/mil/">UF Machine Intelligence Lab</a></b> <br>
 <div style="font-size: 0.95rem;">
 August 2022–Present<br>
 Working on challenges in autonomous boat and submarine<br>

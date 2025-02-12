@@ -2,7 +2,7 @@
 title: About Me
 ---
 
-{{< figure src="/images/about.jpg" alt="Me" height="400px" class="center-image" >}}
+{{< figure src="/portfolio/images/about.jpg" alt="Me" height="400px" class="center-image" >}}
 
 Hi! I'm Anthony Liao, a student at the University of Florida. I will be graduating in May 2025 with a bachelor's in computer science.
 I also have minors in electrical engineering, botany, digital arts and science, and an engineering certificate in AI fundamentals and applications. 
