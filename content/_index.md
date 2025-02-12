@@ -2,7 +2,7 @@
 title: Anthony Liao
 date: 2025-01-18
 layout: "home"  # Optional: specify layout, can be "index" or "home"
-featured_image: "/portfolio/images/FF/farm11.jpg" 
+featured_image: "/portfolio/images/FF/farmbg1.jpg" 
 top_image: "/portfolio/images/me.png" 
 ---
 # Hello! I'm Anthony Liao
