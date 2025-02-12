@@ -2,7 +2,7 @@
 title: "Field and Fork Farm Gardens Internship"
 draft: false
 summary_template: "summary-with-image"
-featured_image: "/images/FF/farm2.jpg" 
+featured_image: "/portfolio/images/FF/farm2.jpg" 
 ---
 
 
