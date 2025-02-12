@@ -47,7 +47,7 @@ Converted a training pipeline to run on HPC<br>
 
 {{< figure src="/portfolio/images/FF.png" alt="Field and Fork Logo" class="uf-logo">}}
 <div class="bordered-text">
-<b><a href="/projects/fieldfork/">UF Field and Fork Farm</a></b> <br>
+<b><a href="/portfolio/projects/fieldfork/">UF Field and Fork Farm</a></b> <br>
 <div style="font-size: 0.95rem;">
 January something- present<br>
 Managing composting system and food forest gardens<br>
