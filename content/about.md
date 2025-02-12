@@ -12,4 +12,4 @@ During my undergraduate studies, I've had a lot of time to explore different dis
 
 Outside of my studies, I really enjoy reading science fiction, fencing, and rock climbing. I'm currently reading through Isaac Asimov's works, and my favorite series so far has been the Three Body Problem series. I also really love camping, hiking, and traveling; I'm planning a backpacking trip over a break in my semester. I've studied in Japan at Kyoto University and have been to China many times throughout my life. I'm always on the lookout for more exciting adventures!
 
-{{< figure src="/images/fencing.jpg" alt="Fencing image">}}
+{{< figure src="/portfolio/images/fencing.jpg" alt="Fencing image">}}

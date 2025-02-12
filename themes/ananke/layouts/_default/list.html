@@ -1,0 +1,23 @@
+{{ define "main" }}
+  <article class="pa3 pa4-ns nested-copy-line-height">
+    
+    <!-- Adjusted Content Section -->
+    <section class="cf ph3 ph5-l pv3 pv4-l f4 f3-ns lh-copy {{ $.Param "text_color" | default "mid-gray" }} w-100 mw-none">
+      {{- .Content -}}
+    </section>
+
+    <section class="flex-ns flex-wrap justify-around mt5">
+      {{ range .Paginator.Pages }}
+        <div class="relative w-100 w-30-l mb4 bg-white">
+          {{ if .Params.summary_template }}
+            {{ .Render .Params.summary_template }}
+          {{ else }}
+            {{ .Render "summary" }}
+          {{ end }}
+        </div>
+      {{ end }}
+    </section>
+    
+    {{- template "_internal/pagination.html" . -}}
+  </article>
+{{ end }}

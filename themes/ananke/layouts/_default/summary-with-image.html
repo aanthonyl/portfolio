@@ -1,0 +1,32 @@
+{{ $featured_image := partial "func/GetFeaturedImage.html" . }}
+<article class="bb b--black-10 bg-white overflow-hidden">
+  
+  <!-- Entire article as a clickable link -->
+  <a href="{{ if .Params.externalLink }}{{ .Params.externalLink }}{{ else }}{{ .RelPermalink }}{{ end }}" 
+     target="{{ if .Params.externalLink }}_blank{{ end }}" 
+     class="db color-inherit no-underline">
+    
+    <!-- Full-width image -->
+    {{ if $featured_image }}
+      <div class="relative">
+        <img src="{{ $featured_image }}" class="w-100 db" alt="image from {{ .Title }}">
+      </div>
+    {{ end }}
+
+    <!-- Content section -->
+    <div class="pa4">
+      <h1 class="f3 fw1 athelas mt0 lh-title">
+        {{ .Title }}
+      </h1>
+      <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
+        {{ .Summary | truncate 200 }} <!-- Cuts summary at 200 characters -->
+      </div>
+      <a href="{{ if .Params.externalLink }}{{ .Params.externalLink }}{{ else }}{{ .RelPermalink }}{{ end }}" 
+     target="{{ if .Params.externalLink }}_blank{{ end }}" 
+     class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">
+    {{ if .Params.externalLink }}{{ $.Param "checkOut" | default (i18n "checkOut") }}{{ else }}{{ $.Param "read_more_copy" | default (i18n "readMore") }}{{ end }}
+    </a>
+    </div>
+  
+  </a>
+</article>

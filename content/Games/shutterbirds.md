@@ -9,18 +9,18 @@ I'm currently working on this game as of Spring 2025. I'm working with a team of
 
 Here are some pictures of it as a work in progress, we're still very early in the development stage.
 
-{{< figure src="/images/birds/birds_test.gif">}}
-{{< figure src="/images/birds/test.gif">}}
+{{< figure src="/portfolio/images/birds/birds_test.gif">}}
+{{< figure src="/portfolio/images/birds/test.gif">}}
 
 
 
 Here's stuff our awesome artists have been working on:
-{{< figure src="/images/birds/raccoon_side.png">}}
+{{< figure src="/portfolio/images/birds/raccoon_side.png">}}
 ^ Tally Smith
-{{< figure src="/images/birds/assets.png">}}
-{{< figure src="/images/birds/image.png">}}
+{{< figure src="/portfolio/images/birds/assets.png">}}
+{{< figure src="/portfolio/images/birds/image.png">}}
 ^ Ruperto Esteban
 
 
 Here's our team:
-{{< figure src="/images/birds/team.png">}}
+{{< figure src="/portfolio/images/birds/team.png">}}

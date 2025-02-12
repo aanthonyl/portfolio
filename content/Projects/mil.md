@@ -12,18 +12,18 @@ featured_image: "/images/MIL/nav1.jpg"
   SubjuGator
 </button>
 
-{{< figure src="/images/MIL/sub8.jpg" >}}
+{{< figure src="/portfolio/images/MIL/sub8.jpg" >}}
 
 <button onclick="window.open('https://navigatoruf.org/', '_blank');" 
         style="margin-left: 250px; padding: 10px 20px; background-color: #007bff; color: white; border: none; border-radius: 5px; cursor: pointer;">
   NaviGator
 </button>
 
-{{< figure src="/images/MIL/nav.jpg" >}}
+{{< figure src="/portfolio/images/MIL/nav.jpg" >}}
 
 [See a list of autonomous vehicles our lab works on](https://mil.ufl.edu/vehicles)
 
-{{< figure src="/images/MIL/bots.png" >}}
+{{< figure src="/portfolio/images/MIL/bots.png" >}}
 
 I've worked on tasks for the lab related to the competitions with creating in-house drivers, competition challenges, and working on various programs. I've learned a lot from working here, and hope to work in a related field in the future. Check out the links above for more details about our robots and our lab.
 

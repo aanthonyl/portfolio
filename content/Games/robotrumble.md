@@ -9,12 +9,12 @@ This game I made with a team of four while studying abroad in Japan for two mont
 
 The premise of the game is pretty simple- it's a 2D level based Metroidvania platformer with a few levels with enemies and a couple boss fights. I had a lot of fun making this despite the limitations of using the Arcade library. Here are some screenshots from our presentation on the game!
 
-{{< figure src="/images/robotrumble/characters.gif">}}
-{{< figure src="/images/robotrumble/elements.gif">}}
-{{< figure src="/images/robotrumble/boss.gif">}}
-{{< figure src="/images/robotrumble/bosslevels.jpg">}}
-{{< figure src="/images/robotrumble/levels.jpg">}}
-{{< figure src="/images/robotrumble/ui.jpg">}}
+{{< figure src="/portfolio/images/robotrumble/characters.gif">}}
+{{< figure src="/portfolio/images/robotrumble/elements.gif">}}
+{{< figure src="/portfolio/images/robotrumble/boss.gif">}}
+{{< figure src="/portfolio/images/robotrumble/bosslevels.jpg">}}
+{{< figure src="/portfolio/images/robotrumble/levels.jpg">}}
+{{< figure src="/portfolio/images/robotrumble/ui.jpg">}}
 
 
 If you want to try out our game, in any terminal that has python in it run these commands:

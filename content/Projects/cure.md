@@ -13,10 +13,10 @@ This project I worked on for a class in the spring of 2024. I worked with Dr. Pa
 I worked with two species, Lonicera sempervirens, also known as Coral Honeysuckle and Erythrina herbacea, also known as Cherokee Bean.
 
 Lonicera sempervirens
-{{< figure src="/images/cure/loni.jpg" >}}
+{{< figure src="/portfolio/images/cure/loni.jpg" >}}
 
 Erythrina herbacea
-{{< figure src="/images/cure/eryth.jpg" >}}
+{{< figure src="/portfolio/images/cure/eryth.jpg" >}}
 
 I created R scripts that looked at their environmental variables based on where these species were distributed. Based on a few models predicting environmental variables in the coming 20-80 years with climate change, I generated niche maps that showed species suitability.
 
@@ -28,8 +28,8 @@ I created R scripts that looked at their environmental variables based on where 
 These maps above show their current distribution as of 2024 when I collected this data. The maps below their current habitat suitability.
 
 <div style="display: flex; gap: 10px; justify-content: flex-start; margin-left: 5%;">
-  <img src="/images/cure/one.png" style="width: 70%;">
-  <img src="/images/cure/erythrina.png" style="width: 70%;">
+  <img src="/portfolio/images/cure/one.png" style="width: 70%;">
+  <img src="/portfolio/images/cure/erythrina.png" style="width: 70%;">
 </div>
 
 This photo below shows future habitat sustainability in the United States. Both species are predicted to do poorly in their endemic
@@ -38,9 +38,9 @@ possibly being able to survive if it moves closer towards the great lakes, howev
 suitability everywhere, especially in its endemic area. Lonicera sempervirens has a better chance of
 surviving in the future, with lots of areas with higher habitat suitability in the northeastern and
 northwestern United States.
-{{< figure src="/images/cure/future.png" >}}
+{{< figure src="/portfolio/images/cure/future.png" >}}
 
 
 Here's my poster in better detail! This was made for a symposium before we finished collecting all of our data and drawing our conclusions for the two species, so please check out <a href="/files/FinalReportAnthonyLiao.pdf" target="_blank">this report linked</a> if you are interested.
 
-{{< figure src="/images/cure/Symposium-Anthony-Liao.png" >}}
+{{< figure src="/portfolio/images/cure/Symposium-Anthony-Liao.png" >}}

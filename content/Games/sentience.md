@@ -11,20 +11,20 @@ This game is one of the first games I've made while doing my DAS minor. It's a 2
 
 Try my game out!
 
-<iframe src="/files/web2/index.html" width="960" height="600" style="border:none;"></iframe>
+<iframe src="/portfolio/files/web2/index.html" width="960" height="600" style="border:none;"></iframe>
 
 
 
 These were inspiration photos I used for the theme of my game:
 
-{{< figure src="/images/sentience/pic.jpg">}}
-{{< figure src="/images/sentience/unknown.png">}}
+{{< figure src="/portfolio/images/sentience/pic.jpg">}}
+{{< figure src="/portfolio/images/sentience/unknown.png">}}
 
 
 These are early testing points of my game:
-{{< figure src="/images/sentience/roughmap.png">}}
-{{< figure src="/images/sentience/game.png">}}
-{{< figure src="/images/sentience/game1.png">}}
+{{< figure src="/portfolio/images/sentience/roughmap.png">}}
+{{< figure src="/portfolio/images/sentience/game.png">}}
+{{< figure src="/portfolio/images/sentience/game1.png">}}
 {{< youtube 4ugL0PstEps >}}
 {{< youtube _99cFSqQ6ak >}}
 {{< youtube I-D_4Zz9H_A >}}
