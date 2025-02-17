@@ -38,7 +38,7 @@ control for RoboSub and RobotX competitions<br>
 <div class="bordered-text">
 <b>Autonomous Robotic with ML and HPC</b> <br>
 <div style="font-size: 0.95rem;">
-June 2024-August 2024<br>
+June 2024–August 2024<br>
 Worked on a perception pipeline for off-terrain autonomous <br>driving<br>
 Developed processes to qualitatively test vision models<br>
 Converted a training pipeline to run on HPC<br>
@@ -49,7 +49,7 @@ Converted a training pipeline to run on HPC<br>
 <div class="bordered-text">
 <b><a href="/portfolio/projects/fieldfork/">UF Field and Fork Farm</a></b> <br>
 <div style="font-size: 0.95rem;">
-January 2024-Present<br>
+January 2024–Present<br>
 Managing composting system and food forest gardens<br>
 Developing IoT systems for automated and smart irrigation<br>
 <br>
