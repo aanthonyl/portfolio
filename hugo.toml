@@ -36,8 +36,15 @@ recent_posts_number = 2
   weight = 4
 
   [[menu.main]]
+  name = "Cool Things"
+  url = "/Cool-things/"
+  weight = 5
+
+
+  [[menu.main]]
   pre = "<i class='fa-brands fa-linkedin'></i>"
   url = "https://www.linkedin.com/in/anthony-liao-b8a73b189/"
   weight = 6
   Params.icon = "fa-brands fa-linkedin"  # Font Awesome icon class
   Params.external = true
+

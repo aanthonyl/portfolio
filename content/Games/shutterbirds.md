@@ -7,6 +7,10 @@ featured_image: "/images/birds/logo.png"  #change these to robot rumble pictures
 
 I'm currently working on this game as of Spring 2025. I'm working with a team of six to make a game that is similar to webfishing- a relaxing multiplayer game for friends to play in the background of hanging out. You take pictures of random birds and sell photos of them to upgrade your camera and make money.
 
+Check out our behance and Itch.io page! We're still a work in progress but soon we should have an early build to play online!
+https://plasmamintz.itch.io/shutterbirds
+https://www.behance.net/gallery/223328367/ShutterBirds
+
 Here are some pictures of it as a work in progress, we're still very early in the development stage.
 
 {{< figure src="/portfolio/images/birds/birds_test.gif">}}

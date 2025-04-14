@@ -1,6 +1,5 @@
 ---
 title: "Fundamentals of Machine Learning ASL Character recognition"
-weight: 20
 summary_template: "summary-with-image"
 featured_image: "/images/asl.jpg" 
 draft: false
