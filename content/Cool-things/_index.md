@@ -6,7 +6,7 @@ featured_image:
 ---
 
 
-This is just a list of some cool stuff I've seen around that I want to keep track of.
+This is just a collection of topics that interest me!
 
 
 
@@ -29,6 +29,6 @@ More technical random stuff:
 [LiveOverflow](https://www.youtube.com/@LiveOverflow)
 [EricParker](https://www.youtube.com/@EricParker)
 
-random!
+random:
 [CityNerd](https://www.youtube.com/@CityNerd)
 [NileRed](https://www.youtube.com/@NileRed)
