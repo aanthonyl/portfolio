@@ -35,10 +35,6 @@ recent_posts_number = 2
   url = "/projects/"
   weight = 4
 
-  [[menu.main]]
-  name = "Cool Things"
-  url = "/Cool-things/"
-  weight = 5
 
 
   [[menu.main]]
