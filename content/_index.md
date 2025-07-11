@@ -23,25 +23,28 @@ Minors in Electrical Engineering, Digital Arts and Sciences,<br> and Botany
 ## Recent Work and Experience    
 
 
-{{< figure src="/portfolio/images/MIL.png" alt="MIL Logo" class="uf-logo">}}
-<div class="bordered-text">
-<b><a href="/portfolio/projects/mil/">UF Machine Intelligence Lab</a></b> <br>
-<div style="font-size: 0.95rem;">
-August 2022–Present<br>
-Working on challenges in autonomous boat and submarine<br>
-control for RoboSub and RobotX competitions<br>
-<br>
-</div>
-</div>
-
 {{< figure src="/portfolio/images/HPC.png" alt="Field and Fork Logo" class="hpc-logo">}}
 <div class="bordered-text">
 <b>Autonomous Robotic with ML and HPC</b> <br>
 <div style="font-size: 0.95rem;">
 June 2024–August 2024<br>
-Worked on a perception pipeline for off-terrain autonomous <br>driving<br>
+Worked on the perception stack for autonomous off-road <br>
+fleet vehicles and Clearpath robots, using LiDAR data <br> 
+and RGBD cameras to generate BEV terrain maps and <br>
+improve their accuracy<br>
 Developed processes to qualitatively test vision models<br>
 Converted a training pipeline to run on HPC<br>
+</div>
+</div>
+
+{{< figure src="/portfolio/images/MIL.png" alt="MIL Logo" class="uf-logo">}}
+<div class="bordered-text">
+<b><a href="/portfolio/projects/mil/">UF Machine Intelligence Lab</a></b> <br>
+<div style="font-size: 0.95rem;">
+August 2022–May 2025<br>
+Working on challenges in autonomous boat and submarine<br>
+control for RoboSub and RobotX competitions<br>
+<br>
 </div>
 </div>
 
@@ -53,5 +56,17 @@ January 2024–Present<br>
 Managing composting system and food forest gardens<br>
 Developing IoT systems for automated and smart irrigation<br>
 <br>
+</div>
+</div>
+
+{{< figure src="/portfolio/images/argonne.png" alt="Argonne National Lab Logo" class="uf-logo">}}
+<div class="bordered-text">
+<b>Argonne National Laboratory</b> <br>
+<div style="font-size: 0.95rem;">
+June 2022–December 2022<br>
+Contributed to the development of cybersecurity <br>
+competitions and critical infrastructure simulations <br>
+<a href="https://cyberforce.energy.gov/conquer-the-hill/reign-edition/" target="_blank">Reign</a> <br>
+<a href="https://cyberforce.energy.gov/cyberforce-competition/prior-competitions/doe-cyberforce-competition-2023/" target="_blank">Cyber Force Competition</a>
 </div>
 </div>

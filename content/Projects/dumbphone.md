@@ -1,6 +1,6 @@
 ---
 title: "Moving to a dumb phone and making my dumb phone smarter"
-draft: false
+draft: true
 summary_template: "summary-with-image"
 featured_image: "/images/flip.png" 
 ---
